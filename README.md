@@ -10,7 +10,7 @@ I'm a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham. I'
 * 📕 私は今日本語を勉強しています! (私はCEFR A1だと思います。)
 <!-- add currently watching anime, currently reading manga here -->
 ---
-[![Ananthakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananthakrishna7)](https://github.com/anuraghazra/github-readme-stats)
+[![Ananthakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananthakrishna7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 💻 My Tech Stack
 
