@@ -1,40 +1,25 @@
-# Hi, I'm Ananthakrishnan Balajee 👋
+# Hi there 👋, I'm Ananthakrishnan Balajee
+I'm a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham. I'm passionate about building interesting applications and exploring new technologies.
+* 🔭 I’m currently working on my final year project, **Raga Classification using Transformers**, a deep learning approach to classify ragas in Indian Classical Music.
+* 🌱 My interests include Deep Learning, Computer Networks, and Full-Stack Development. Ruby on Rails is [my latest obsession](https://github.com/ananthakrishna7/rails_first)!
+* 💬 Ask me about Python, Java, C/C++, or Haskell!
+* ⚡ Fun fact: I enjoy gaming, anime and origami.
+* 🎓 I was certified at CEFR - C2 in English in 2016.
+* 📕 私は日本語を勉強しています!
+<!-- add currently watching anime, currently reading manga here --->
+--- 
 
-I'm a Computer Science and Engineering undergraduate at Amrita Vishwa Vidyapeetham, focused on full-stack systems, AI/ML workflows, embedded software, and systems programming.
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
+# 📊 GitHub Stats
+<!--- ![](https://github-readme-stats.vercel.app/api?username=ananthakrishna7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) --->
+![](https://nirzak-streak-stats.vercel.app/?user=ananthakrishna7&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishna7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=normal)
 
-- 🔭 Test Engineering Intern at **ICU Medical**, building embedded-device test automation and full-stack test infrastructure
-- 🎵 Working on Carnatic raga classification using audio transcription, symbolic MIDI representations, and Transformers
-- 🧪 Exploring DSP, formal verification, networking, graphics programming, and agentic AI workflows
-- 💬 Ask me about Python, C/C++, Java, React, FastAPI, PostgreSQL, or embedded test automation
-- 🌐 [Portfolio](https://ananthakrishna7.github.io) · [LinkedIn](https://www.linkedin.com/in/ananthakrishnan-balajee/)
-- 📍 Coimbatore, Tamil Nadu, India
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ananthakrishna7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## Featured work
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- **Test Management System** — React, FastAPI, PostgreSQL, and Redis application for integrated test workflows
-- **Audio Verification** — DSP-based verification using spectrogram similarity, filtering, loudness, and amplitude analysis
-- **Raga Classification** — source separation, pitch detection, MIDI transcription, and Transformer-based classification
-- **TCP from Scratch** — TCP protocol primitives in C using raw sockets and Wireshark
-- **Minecraft-style Renderer** — textured 3D renderer in C with OpenGL, GLFW, GLAD, cglm, and CMake
-- **Pico W ACSL Verification** — specification-driven verification of embedded C using ACSL and Frama-C
-
-## Languages and tools
-
-**Languages:** Python · C · C++ · Java · JavaScript · SQL · Go · Scala · Haskell · Bash<br>
-**Web:** React · FastAPI · Express · Flask · PostgreSQL · MongoDB · MariaDB · Redis<br>
-**AI/ML & data:** PyTorch · TensorFlow · scikit-learn · Pandas · NumPy · Librosa · Qiskit<br>
-**Systems & tooling:** Linux · Docker · Git · Jenkins · OpenGL · CMake · Frama-C · Jira
-
-## GitHub stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananthakrishna7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ananthakrishnan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthakrishna7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ananthakrishnan's most-used languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ananthakrishna7&theme=tokyonight&hide_border=true" alt="Ananthakrishnan's GitHub contribution streak" />
-</p>
-
-> GitHub language cards reflect repository byte counts, not proficiency.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
