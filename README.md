@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ananthakrishnan Balajee
-I'm a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham. I'm passionate about building interesting applications and exploring new technologies.
-* 🔭 I’m currently working on my final year project, **Raga Classification using Transformers**, a deep learning approach to classify ragas in Indian Classical Music.
+I'm a Computer Science and Engineering graduate from Amrita Vishwa Vidyapeetham. I'm passionate about building interesting applications and exploring new technologies.
+<!---* 🔭 I’m currently working on my final year project, **Raga Classification using Transformers**, a deep learning approach to classify ragas in Indian Classical Music. --->
 * 🌱 My interests include Deep Learning, Computer Networks, and Full-Stack Development. Ruby on Rails is [my latest obsession](https://github.com/ananthakrishna7/rails_first)!
 * 💬 Ask me about Python, Java, C/C++, or Haskell!
 * ⚡ Fun fact: I enjoy gaming, anime and origami.
